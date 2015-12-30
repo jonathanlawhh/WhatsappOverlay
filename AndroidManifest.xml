@@ -1,0 +1,9 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+   		  package="com.jon.whatsappblack"
+   		  android:versionCode="1" >
+   		  
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="21" />
+    <overlay android:targetPackage="com.whatsapp" android:priority="10"/>
+    <meta-data android:name="author" android:value="jon" />
+
+</manifest>

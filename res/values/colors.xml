@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#ff424242</color>
+    <color name="action_mode">#ff424242</color>
+    <color name="action_mode_dark">#ff424242</color>
+	<color name="primary">#ff424242</color>
+    <color name="primary_dark">#ff424242</color>
+	<color name="section_text">#ff212121</color>
+</resources>
